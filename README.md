@@ -1,4 +1,5 @@
 # ML-templates
+![Image Description](map.png)
 In progress...I hope you enjoy this repository.
 | Notebook Topic                       | Use Case                                                     |
 |------------------------------------|--------------------------------------------------------------|
