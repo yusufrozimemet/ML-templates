@@ -1,5 +1,7 @@
 # ML-templates
 In progress...I hope you enjoy this repository.
+![sankey diagram](Relationship2.png)
+
 
 
 | Model                            | Use Case                                                                  | Category                                     |
