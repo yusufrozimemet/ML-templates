@@ -1,6 +1,8 @@
 # ML-templates
-![Image Description](map.png)
 In progress...I hope you enjoy this repository.
+
+![Image Description](map.png)
+
 | Notebook Topic                       | Use Case                                                     |
 |------------------------------------|--------------------------------------------------------------|
 | NLP                                | Natural Language Processing                                  |
