@@ -38,4 +38,4 @@ In progress...I hope you enjoy this repository.
 | ResUNet                          | Image segmentation, Medical image analysis                               | Image Recognition and Object Detection       |
 | Facebook Prophet                 | Time series analysis, Trend prediction                                    | Time Series Analysis and Forecasting         |
 | RNN                              | Natural language processing, Time series forecasting                      | Time Series Analysis and Forecasting         |
-
+| Natural Language Processing      | Text analysis, Sentiment analysis, Language translation                   | Natural Language Processing                         |
